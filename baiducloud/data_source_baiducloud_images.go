@@ -14,7 +14,7 @@ output "images" {
 package baiducloud
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"regexp"
 	"strings"
 

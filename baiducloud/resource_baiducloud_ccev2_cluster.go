@@ -44,7 +44,7 @@ package baiducloud
 
 import (
 	"errors"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	"github.com/baidubce/bce-sdk-go/bce"
