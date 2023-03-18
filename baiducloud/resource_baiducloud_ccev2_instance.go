@@ -19,7 +19,7 @@ package baiducloud
 
 import (
 	"errors"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"time"
 
 	ccev2 "github.com/baidubce/bce-sdk-go/services/cce/v2"
