@@ -1,7 +1,7 @@
 package baiducloud
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	bccapi "github.com/baidubce/bce-sdk-go/services/bcc/api"
 	ccev2 "github.com/baidubce/bce-sdk-go/services/cce/v2"
